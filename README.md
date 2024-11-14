@@ -1,1 +1,1 @@
-# -Shift-system-of-a-bank-BACK
+# Shift-system
